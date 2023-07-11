@@ -1,0 +1,8 @@
+C:\Users\Rav3n\source\repos\CountryCode\bin\Debug\CountryCode.exe.config
+C:\Users\Rav3n\source\repos\CountryCode\bin\Debug\CountryCode.exe
+C:\Users\Rav3n\source\repos\CountryCode\bin\Debug\CountryCode.pdb
+C:\Users\Rav3n\source\repos\CountryCode\obj\Debug\CountryCode.csproj.AssemblyReference.cache
+C:\Users\Rav3n\source\repos\CountryCode\obj\Debug\CountryCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rav3n\source\repos\CountryCode\obj\Debug\CountryCode.csproj.CoreCompileInputs.cache
+C:\Users\Rav3n\source\repos\CountryCode\obj\Debug\CountryCode.exe
+C:\Users\Rav3n\source\repos\CountryCode\obj\Debug\CountryCode.pdb
